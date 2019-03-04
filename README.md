@@ -1,2 +1,2 @@
 # ergodox
-check out my ergodox settings!
+check out my ergodox settings! :)
