@@ -1,4 +1,3 @@
-```html
 <p><a href="https://gyazo.com/c16926425ba0d8e454c95c16e94c9818"><img src="https://i.gyazo.com/c16926425ba0d8e454c95c16e94c9818.png" alt="Image from Gyazo" width="299" style="display: block; margin-left: auto; margin-right: auto;" height="218" /></a></p>
 <hr />
 <h2 style="text-align: center;">💙Info + My Setup💙</h2>
@@ -10,4 +9,3 @@
 <h2 style="text-align: left;">Table of Contents</h2>
 <hr />
 <p></p>
-```
