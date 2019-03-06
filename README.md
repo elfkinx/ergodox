@@ -2,7 +2,8 @@
 
 * * *
 
-## 💙Info + My Setup💙
+💙Info + My Setup💙
+-------------------
 
 ### [Latest Version](https://configure.ergodox-ez.com/layouts/KBOw/latest/0) | [Website](https://ergodox-ez.com/) | [Twitter](https://twitter.com/ergodoxez) | [Reddit](https://www.reddit.com/r/ergodox/) | [Shop](https://ergodox-ez.com/pages/customize) | [Configurator](https://configure.ergodox-ez.com/layouts/default/latest/0)
 
@@ -14,6 +15,7 @@ Built with 💙 [doxkb](https://github.com/doxkb), [bpiphanies](http://bathroom
 
 Compiled with 💙 by [elfkinx](https://github.com/elfkinx)
 
-## Table of Contents
+Table of Contents
+-----------------
 
 * * *
