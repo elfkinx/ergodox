@@ -9,7 +9,7 @@
 
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/benblazak/ergodox-firmware.svg?logo=github&style=for-the-badge"> ![Discord](https://img.shields.io/discord/440868230475677696.svg?logo=discord&style=for-the-badge) <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/liamghealy.svg?color=brightgreen&label=FOLLOW%20ME&logo=twitter&style=for-the-badge">
 
-<sub>Built with 💙 [doxkb](https://github.com/doxkb), [bpiphanies](http://bathroomepiphanies.com/) and [jackhumbert](https://github.com/jackhumbert) and compiled with 💙 by [elfkinx](https://github.com/elfkinx)
+<sub>Built with 💙 [doxkb](https://github.com/doxkb), [bpiphanies](http://bathroomepiphanies.com/) and [jackhumbert](https://github.com/jackhumbert) and compiled by [elfkinx](https://github.com/elfkinx)
 </div>
 
 Table of Contents
