@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://i.gyazo.com/c16926425ba0d8e454c95c16e94c9818.png"/>
 </div>
-
+&nbsp;
+&nbsp;
 <div align="center">
 
 ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m782080821-e4f43c6ecab13524d299c154.svg?logo=cloudflare&logoColor=white&style=for-the-badge)  ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/elfkinx/ergodox.svg?color=brightgreen&logo=github&style=for-the-badge) <a href="#patched-fonts" title=""><img src="https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/images/faux-shield-badge-os-logos.svg?sanitize=true"></a> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/benblazak/ergodox-firmware.svg?logo=github&style=for-the-badge">
