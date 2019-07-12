@@ -3,7 +3,9 @@
 💙Info + My Setup💙
 -------------------
 <div align="center">
+   
 ### [Latest Version](https://configure.ergodox-ez.com/layouts/KBOw/latest/0) | [Website](https://ergodox-ez.com/) | [Twitter](https://twitter.com/ergodoxez) | [Reddit](https://www.reddit.com/r/ergodox/) | [Shop](https://ergodox-ez.com/pages/customize) | [Configurator](https://configure.ergodox-ez.com/layouts/default/latest/0)
+
 </div>
 
 <div align="center">
