@@ -2,10 +2,10 @@
   <img src="https://i.gyazo.com/c16926425ba0d8e454c95c16e94c9818.png"/>
 </h1>
 <div align="center">
-   
-### [Latest Version](https://configure.ergodox-ez.com/layouts/KBOw/latest/0) | [Website](https://ergodox-ez.com/) | [Twitter](https://twitter.com/ergodoxez) | [Reddit](https://www.reddit.com/r/ergodox/) | [Shop](https://ergodox-ez.com/pages/customize) | [Configurator](https://configure.ergodox-ez.com/layouts/default/latest/0)
 
 ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m782080821-e4f43c6ecab13524d299c154.svg?logo=cloudflare&logoColor=white&style=for-the-badge)  ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/elfkinx/ergodox.svg?color=brightgreen&logo=github&style=for-the-badge) <a href="#patched-fonts" title=""><img src="https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/images/faux-shield-badge-os-logos.svg?sanitize=true"></a> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/benblazak/ergodox-firmware.svg?logo=github&style=for-the-badge"> <img alt="Discord" src="https://img.shields.io/discord/440868230475677696.svg?logo=discord&style=for-the-badge">
+
+### [Latest Version](https://configure.ergodox-ez.com/layouts/KBOw/latest/0) | [Website](https://ergodox-ez.com/) | [Twitter](https://twitter.com/ergodoxez) | [Reddit](https://www.reddit.com/r/ergodox/) | [Shop](https://ergodox-ez.com/pages/customize) | [Configurator](https://configure.ergodox-ez.com/layouts/default/latest/0)
 
 <sub>Built with 💙 [doxkb](https://github.com/doxkb), [bpiphanies](http://bathroomepiphanies.com/) and [jackhumbert](https://github.com/jackhumbert) and compiled with 💙 by [elfkinx](https://github.com/elfkinx)
 </div>
