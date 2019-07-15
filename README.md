@@ -12,7 +12,7 @@
 <sub>Built with 💙 [doxkb](https://github.com/doxkb), [bpiphanies](http://bathroomepiphanies.com/) and [jackhumbert](https://github.com/jackhumbert) and compiled with 💙 by [elfkinx](https://github.com/elfkinx)
 </div>
 
-##Table of Contents
+## Table of Contents
 
 *   About
     *   Overview
@@ -28,9 +28,9 @@
     *   Installation of my version
     *   General installation
 
-##About
+## About
 
-###Overview
+### Overview
 
 >So here's the thing about your keyboard: **It's yours.**
 
