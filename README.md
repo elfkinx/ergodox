@@ -55,9 +55,11 @@ That's why everything about the ErgoDox EZ is customizable:
 *   The ErgoDox EZ is **made to last**, with uncompromising build quality, a housing that's reinforced with metal where it meets the tilt/tent kit, and a generous two-year warranty. This is a keyboard you're going to be using for years to come.
 
 The ErgoDox EZ isn't a keyboard for everyone: It's the keyboard for **you**.
+<div align="center">
 
 ### Sustainability
 
+</div>
 > How we make our keyboards
 
 ![Taiwan Team](https://cdn.shopify.com/s/files/1/1152/3264/t/25/assets/neat-taiwan-team.jpg?17225678919898917123)
@@ -104,6 +106,8 @@ So if you do need to open up one of our keyboards at any point in the future onc
 The microcontroller powering your microwave oven or computer monitor is a black box. There's software running on it - firmware, to be exact - but you'll never know what it is, much less be able to modify it.
 
 Our keyboards buck this trend, again. They run on open-source firmware called QMK. The entire source code that's running on our keyboard is freely available on GitHub. You can compile the firmware locally, and would be able to do so even if our company ever goes out of business. You can audit the code, modify it, and improve it to your heart's content — it is yours.
+<div align="center">
 
 ### Keyswitches
 
+</div>
