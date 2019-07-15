@@ -12,7 +12,7 @@
 <sub>Built with 💙 [doxkb](https://github.com/doxkb), [bpiphanies](http://bathroomepiphanies.com/) and [jackhumbert](https://github.com/jackhumbert) and compiled with 💙 by [elfkinx](https://github.com/elfkinx)
 </div>
 
-## Table of Contents
+# Table of Contents
 
 *   About
     *   Overview
@@ -28,10 +28,9 @@
     *   Installation of my version
     *   General installation
 
-## About
+# About
 
-### Overview
-***
+## Overview
 
 >So here's the thing about your keyboard: **It's yours.**
 
@@ -53,8 +52,7 @@ That's why everything about the ErgoDox EZ is customizable:
 
 The ErgoDox EZ isn't a keyboard for everyone: It's the keyboard for **you**.
 
-### Sustainability
-***
+## Sustainability
 
 > How we make our keyboards
 
@@ -103,5 +101,5 @@ The microcontroller powering your microwave oven or computer monitor is a black 
 
 Our keyboards buck this trend, again. They run on open-source firmware called QMK. The entire source code that's running on our keyboard is freely available on GitHub. You can compile the firmware locally, and would be able to do so even if our company ever goes out of business. You can audit the code, modify it, and improve it to your heart's content — it is yours.
 
-### Keyswitches
-***
+## Keyswitches
+
