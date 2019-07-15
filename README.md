@@ -62,12 +62,14 @@ Our keyboards are made in Taiwan by people who are employees, not contractors. P
 
 It is made at an office building, not a factory. The conditions are good, and it is highly skilled labor with commensurate pay.
 
+&nbsp;
 > Seriously great warranty and service
 
 We include a two-year warranty with each of our keyboards. Many companies can say that, actually. But what happens when you try to act on this warranty - when push comes to shove, and something actually goes wrong with the product? This is when you find out if a company means what it says.
 
 Most companies make you jump through hoops. Fill out forms, send out your product, wait several weeks for a replacement. We don't. When something goes wrong with your board, we provide fast service and great communication, every time. Don't take our word for it - search around and read about people's experiences with our service. We won't link to any testimonials because we really want you to do just that - search and see for yourself.
 
+&nbsp;
 > Change-it-yourself switches
 
 A keyswitch is a moving part. In a mechanical keyboard with dozens of keyswitches, one of these would obviously be the first to go. When a keyswitch goes, it usually begins exhibiting "chatter" - you press it once and get a few keystrokes, or no keystrokes at all.
@@ -76,12 +78,14 @@ With most other keyboards, you're going to have to buy a whole new board. With o
 
 So if years down the road one of your keyswitches starts acting up, it's easy to fix on your own.
 
+&nbsp;
 > Detatchable Cables
 
 Many other keyboards have cables that come right out of the housing. Meaning, you don' t get a jack in the body of the keyboard, but just a cable that snakes out. With time and use, that cable gets bent over and over, and is very prone to breaking exactly where it connects to the body of the keyboard.
 
 This is easy to solve: Just use a jack! And that's exactly what we did. We use a standard USB jack on the board. Of course we include a cable when you buy the board - but you can swap out that cable at any time. The same goes for the ErgoDox EZ's intreconnect cable: That is an industry-standard 3.5mm TRRS cable (“audio cable”), with a jack on each half of the board.
 
+&nbsp;
 > Easy to open
 
 Many modern consumer devices are notoriously difficult to open. Whoever makes them does not want you poking around inside. An arsenal of techniques is used to keep you out: weirdly-shaped screws, fragile clips, tough adhesives, and more.
@@ -90,6 +94,7 @@ With our boards, there's none of that. Just Philips screws, and that's it. No cl
 
 So if you do need to open up one of our keyboards at any point in the future once it's out of warranty, it's easy and straightforward to do, and you can close it right back up again when you're done repairing or modifying it.
 
+&nbsp;
 > Open-source
 
 The microcontroller powering your microwave oven or computer monitor is a black box. There's software running on it - firmware, to be exact - but you'll never know what it is, much less be able to modify it.
